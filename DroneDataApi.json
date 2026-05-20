@@ -1,25 +1,180 @@
 [
-  {"ID":"DJI-0001","BRAND":"DJI","PRODUCTNAME":"DJI Mavic 3 Pro","GRAPHICNAME":"dji_mavic3pro.png","COSTPRICE":1299.99,"MSRP":2199.00,"QTYONHAND":42,"QTYONBACKORDER":0,"DESCRIPTION":"The DJI Mavic 3 Pro is a flagship consumer drone featuring a triple-camera system with a 4/3 CMOS Hasselblad main camera, a 1/2-inch medium tele camera, and a 1/2-inch tele camera. With up to 43 minutes of flight time, omnidirectional obstacle sensing, and a 15km transmission range via O3+ technology, it is the ultimate aerial photography tool for professionals and enthusiasts alike."},
-  {"ID":"DJI-0002","BRAND":"DJI","PRODUCTNAME":"DJI Mini 4 Pro","GRAPHICNAME":"dji_mini4pro.png","COSTPRICE":499.99,"MSRP":759.00,"QTYONHAND":85,"QTYONBACKORDER":10,"DESCRIPTION":"The DJI Mini 4 Pro weighs under 249g, making it regulation-friendly in many countries. It boasts a 1/1.3-inch CMOS sensor capable of 4K/60fps video, omnidirectional obstacle sensing, and up to 34 minutes of flight time. Its vertical shooting mode is ideal for social media content creators seeking a powerful yet compact aerial platform."},
-  {"ID":"DJI-0003","BRAND":"DJI","PRODUCTNAME":"DJI Matrice 350 RTK","GRAPHICNAME":"dji_matrice350rtk.png","COSTPRICE":5999.99,"MSRP":9990.00,"QTYONHAND":12,"QTYONBACKORDER":3,"DESCRIPTION":"The DJI Matrice 350 RTK is an enterprise-grade drone built for demanding commercial applications including surveying, mapping, and inspection. It supports a triple-payload system, offers up to 55 minutes of flight time, IP55 weather resistance, and integrates real-time kinematic positioning for centimetre-level accuracy. Compatible with DJIs full suite of enterprise payloads."},
-  {"ID":"DJI-0004","BRAND":"DJI","PRODUCTNAME":"DJI Avata 2","GRAPHICNAME":"dji_avata2.png","COSTPRICE":499.00,"MSRP":699.00,"QTYONHAND":60,"QTYONBACKORDER":0,"DESCRIPTION":"The DJI Avata 2 is an immersive FPV cinewhoop drone designed for high-speed, low-altitude flight and cinematic footage. Featuring a 1/1.3-inch sensor shooting 4K/60fps, it pairs with the DJI Goggles 3 for an intuitive first-person flight experience. Its durable propeller guard design allows confident flight in tight indoor and outdoor spaces."},
-  {"ID":"DJI-0005","BRAND":"DJI","PRODUCTNAME":"DJI Agras T50","GRAPHICNAME":"dji_agras_t50.png","COSTPRICE":11999.99,"MSRP":18500.00,"QTYONHAND":8,"QTYONBACKORDER":2,"DESCRIPTION":"The DJI Agras T50 is a heavy-duty agricultural drone capable of carrying a 50kg spray payload or 70kg spreading payload. Equipped with an active phased array radar and binocular vision system for precise terrain following, it delivers efficient large-scale crop treatment. Its coaxial twin-rotor design provides exceptional stability and spraying coverage for modern precision agriculture."},
+  {
+    "ID": "DJI-0001",
+    "BRAND": "DJI",
+    "PRODUCTNAME": "DJI Mavic 3 Pro",
+    "GRAPHICNAME": "dji_mavic3_pro.jpg",
+    "COSTPRICE": 1299.99,
+    "MSRP": 2199.0,
+    "QTYONHAND": 42,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The DJI Mavic 3 Pro is a flagship consumer drone featuring a triple-camera system with a 4/3 CMOS Hasselblad main camera, a 1/2-inch medium tele camera, and a 1/2-inch tele camera. With up to 43 minutes of flight time, omnidirectional obstacle sensing, and a 15km transmission range via O3+ technology, it is the ultimate aerial photography tool for professionals and enthusiasts alike."
+  },
+  {
+    "ID": "DJI-0002",
+    "BRAND": "DJI",
+    "PRODUCTNAME": "DJI Mini 4 Pro",
+    "GRAPHICNAME": "dji_mini4_pro.jpg",
+    "COSTPRICE": 499.99,
+    "MSRP": 759.0,
+    "QTYONHAND": 85,
+    "QTYONBACKORDER": 10,
+    "DESCRIPTION": "The DJI Mini 4 Pro weighs under 249g, making it regulation-friendly in many countries. It boasts a 1/1.3-inch CMOS sensor capable of 4K/60fps video, omnidirectional obstacle sensing, and up to 34 minutes of flight time. Its vertical shooting mode is ideal for social media content creators seeking a powerful yet compact aerial platform."
+  },
+  {
+    "ID": "DJI-0003",
+    "BRAND": "DJI",
+    "PRODUCTNAME": "DJI Matrice 350 RTK",
+    "GRAPHICNAME": "DJI_Matrice_350_RTK.jpg",
+    "COSTPRICE": 5999.99,
+    "MSRP": 9990.0,
+    "QTYONHAND": 12,
+    "QTYONBACKORDER": 3,
+    "DESCRIPTION": "The DJI Matrice 350 RTK is an enterprise-grade drone built for demanding commercial applications including surveying, mapping, and inspection. It supports a triple-payload system, offers up to 55 minutes of flight time, IP55 weather resistance, and integrates real-time kinematic positioning for centimetre-level accuracy. Compatible with DJIs full suite of enterprise payloads."
+  },
+  {
+    "ID": "DJI-0004",
+    "BRAND": "DJI",
+    "PRODUCTNAME": "DJI Avata 2",
+    "GRAPHICNAME": "dji_avata2.jpg",
+    "COSTPRICE": 499.0,
+    "MSRP": 699.0,
+    "QTYONHAND": 60,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The DJI Avata 2 is an immersive FPV cinewhoop drone designed for high-speed, low-altitude flight and cinematic footage. Featuring a 1/1.3-inch sensor shooting 4K/60fps, it pairs with the DJI Goggles 3 for an intuitive first-person flight experience. Its durable propeller guard design allows confident flight in tight indoor and outdoor spaces."
+  },
+  {
+    "ID": "DJI-0005",
+    "BRAND": "DJI",
+    "PRODUCTNAME": "DJI Agras T50",
+    "GRAPHICNAME": "dji_agras_t50.jpg",
+    "COSTPRICE": 11999.99,
+    "MSRP": 18500.0,
+    "QTYONHAND": 8,
+    "QTYONBACKORDER": 2,
+    "DESCRIPTION": "The DJI Agras T50 is a heavy-duty agricultural drone capable of carrying a 50kg spray payload or 70kg spreading payload. Equipped with an active phased array radar and binocular vision system for precise terrain following, it delivers efficient large-scale crop treatment. Its coaxial twin-rotor design provides exceptional stability and spraying coverage for modern precision agriculture."
+  },
+  {
+    "ID": "DJI-0006",
+    "BRAND": "DJI",
+    "PRODUCTNAME": "DJI Neo 2",
+    "GRAPHICNAME": "dji_neo2.png",
+    "COSTPRICE": 229.0,
+    "MSRP": 275.99,
+    "QTYONHAND": 35,
+    "QTYONBACKORDER": 5,
+    "DESCRIPTION": "The DJI Neo 2 is an ultra-lightweight (151g), beginner-friendly self-flying camera drone. Designed for solo creators, it features palm takeoff/landing, gesture control, omnidirectional obstacle sensing, and 4K/60fps video. It boasts automated shots, ActiveTrack, and full-coverage propeller guards for ultimate flight safety"
+  },
 
-  {"ID":"ORC-0001","BRAND":"ORCA INTERNATIONAL","PRODUCTNAME":"Orca Reef Scout HD","GRAPHICNAME":"orca_reef_scout_hd.png","COSTPRICE":899.00,"MSRP":1399.00,"QTYONHAND":20,"QTYONBACKORDER":5,"DESCRIPTION":"The Orca Reef Scout HD is a waterproof aerial and aquatic-adjacent drone designed for coastal surveillance and marine research. It features a 1-inch 4K camera, salt-water resistant coating, and a wave-resistance hovering system that allows stable flight in windy, humid maritime environments. Ideal for marine biologists, coastguard support, and offshore inspections."},
-  {"ID":"ORC-0002","BRAND":"ORCA INTERNATIONAL","PRODUCTNAME":"Orca Horizon Pro","GRAPHICNAME":"orca_horizon_pro.png","COSTPRICE":1450.00,"MSRP":2299.00,"QTYONHAND":15,"QTYONBACKORDER":0,"DESCRIPTION":"The Orca Horizon Pro is a long-endurance fixed-wing hybrid drone built for wide-area surveillance and mapping. With a 90-minute flight time and a 25km communication range it transitions between VTOL takeoff and efficient fixed-wing cruise. Its dual gimbal payload bay supports both an optical and thermal camera simultaneously, making it a favourite for search-and-rescue and border monitoring operations."},
-  {"ID":"ORC-0003","BRAND":"ORCA INTERNATIONAL","PRODUCTNAME":"Orca AquaEye","GRAPHICNAME":"orca_aquaeye.png","COSTPRICE":2100.00,"MSRP":3499.00,"QTYONHAND":10,"QTYONBACKORDER":4,"DESCRIPTION":"The Orca AquaEye is a multi-environment UAS capable of seamless transitions between aerial flight and water surface skimming. Engineered for hydrological surveys and aquatic ecosystem monitoring, it carries an integrated sonar puck and a 4K stabilised camera. Its IPX8-rated hull and buoyant landing gear allow water landings and takeoffs in calm to moderate sea states."},
-  {"ID":"ORC-0004","BRAND":"ORCA INTERNATIONAL","PRODUCTNAME":"Orca StormRider","GRAPHICNAME":"orca_stormrider.png","COSTPRICE":3200.00,"MSRP":5100.00,"QTYONHAND":7,"QTYONBACKORDER":1,"DESCRIPTION":"The Orca StormRider is a ruggedised quadrotor engineered to operate in extreme weather conditions including high winds, rain, and sub-zero temperatures. Its carbon-fibre reinforced frame, heated battery compartment, and IP67-rated electronics make it a reliable platform for emergency response, disaster assessment, and Arctic research missions. Supports third-party payload integration via a 2kg universal mounting system."},
-  {"ID":"ORC-0005","BRAND":"ORCA INTERNATIONAL","PRODUCTNAME":"Orca PelicanLite","GRAPHICNAME":"orca_pelicanlite.png","COSTPRICE":649.00,"MSRP":999.00,"QTYONHAND":30,"QTYONBACKORDER":0,"DESCRIPTION":"The Orca PelicanLite is a lightweight foldable drone optimised for coastal photography and recreational maritime exploration. Weighing just 320g with a 1/2-inch sensor, 3-axis gimbal, and 28-minute flight time, it is compact enough to fit in a backpack. Its auto-return-to-boat feature uses GPS anchoring to the vessel rather than the launch point, making it ideal for use from moving watercraft."},
+  {
+    "ID": "AUT-0001",
+    "BRAND": "AUTEL ROBOTICS",
+    "PRODUCTNAME": "Autel Alpha",
+    "GRAPHICNAME": "autel_alpha.jpg",
+    "COSTPRICE": 19289.00,
+    "MSRP": 21000.00,
+    "QTYONHAND": 5,
+    "QTYONBACKORDER": 1,
+    "DESCRIPTION": "The Autel Alpha is an enterprise-grade, multi-purpose industrial drone designed for professionals in public safety, search and rescue, and energy infrastructure inspection. It features a robust, foldable, IP55-rated weather-resistant airframe and an advanced 5-in-1 gimbal payload."
+  },
+  {
+    "ID": "AUT-0002",
+    "BRAND": "AUTEL ROBOTICS",
+    "PRODUCTNAME": "EVO Max 4N",
+    "GRAPHICNAME": "autel_evo_max_4N.jpg",
+    "COSTPRICE": 12599.00,
+    "MSRP": 15555.00,
+    "QTYONHAND": 2,
+    "QTYONBACKORDER": 2,
+    "DESCRIPTION": "The Autel EVO Max 4N is an advanced, enterprise-grade commercial drone engineered specifically for night-time operations, tactical reconnaissance, and complex industrial inspections. It pairs a heavy-lift airframe with a powerful FusionLight quad-sensor payload that includes a super-starlight night vision camera."
+  },
+  {
+    "ID": "AUT-0003",
+    "BRAND": "AUTEL ROBOTICS",
+    "PRODUCTNAME": "EVO Max 4T-XE",
+    "GRAPHICNAME": "autel_evo_max-4T-XE.jpg",
+    "COSTPRICE": 9999.00,
+    "MSRP": 12500.00,
+    "QTYONHAND": 10,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The Autel Robotics EVO Max 4T-XE is an advanced commercial-grade enterprise drone built with an industry-first multi-sensor camera, autonomous flight, A-Mesh networking, and 720° obstacle avoidance. Engineered for public safety, search and rescue, and industrial inspections, it handles highly complex and GPS-denied environments."
+  },
+  {
+    "ID": "AUT-0004",
+    "BRAND": "AUTEL ROBOTICS",
+    "PRODUCTNAME": "EVO II Pro Rugged",
+    "GRAPHICNAME": "autel_evoII_rugged.jpg",
+    "COSTPRICE": 2099.00,
+    "MSRP": 3500.00,
+    "QTYONHAND": 15,
+    "QTYONBACKORDER": 3,
+    "DESCRIPTION": "The Autel Robotics EVO II Pro Rugged Bundle is a commercial-grade, foldable drone package built for demanding workflows and professional videography. Flight Performance: Provides up to 40 minutes of flight time, wind resistance up to Level 8 (27 mph), and a top speed of 45 mph in Ludicrous mode."
+  },
+  {
+    "ID": "AUT-0005",
+    "BRAND": "AUTEL ROBOTICS",
+    "PRODUCTNAME": "EVO Lite 640T Enterprise",
+    "GRAPHICNAME": "autel_evo_640T_enterprise.png",
+    "COSTPRICE": 3359.00,
+    "MSRP": 5999.00,
+    "QTYONHAND": 8,
+    "QTYONBACKORDER": 2,
+    "DESCRIPTION": "The Autel EVO Lite 640T Enterprise is a lightweight, portable commercial drone designed for public safety, search and rescue, and industrial inspections. Weighing only 866 grams, it features a dual-camera system with a 640x512 thermal sensor and a 48MP visible-light camera, alongside AI target recognition and a 12km (7.4-mile) transmission range."
+  },
 
-  {"ID":"AVI-0001","BRAND":"AEROVIRONMENT","PRODUCTNAME":"AeroVironment Puma AE","GRAPHICNAME":"avi_puma_ae.png","COSTPRICE":18000.00,"MSRP":28500.00,"QTYONHAND":5,"QTYONBACKORDER":2,"DESCRIPTION":"The AeroVironment Puma AE is a hand-launched all-environment small UAS used extensively by military and government customers for intelligence, surveillance, and reconnaissance. With a 3.2-hour endurance, encrypted communication link, and interchangeable EO/IR payload, it provides persistent situational awareness in contested environments. Its reinforced fuselage allows water landings for maritime recovery operations."},
-  {"ID":"AVI-0002","BRAND":"AEROVIRONMENT","PRODUCTNAME":"AeroVironment Raven RQ-11B","GRAPHICNAME":"avi_raven_rq11b.png","COSTPRICE":22000.00,"MSRP":35000.00,"QTYONHAND":4,"QTYONBACKORDER":1,"DESCRIPTION":"The AeroVironment Raven RQ-11B is one of the most widely deployed small UAS in the world, operated by over 30 nations. This hand-launched system weighs just 1.9kg and provides real-time full-motion video to ground forces. With silent electric propulsion and a 10km operating radius it delivers tactical ISR capability with minimal acoustic and visual signature."},
-  {"ID":"AVI-0003","BRAND":"AEROVIRONMENT","PRODUCTNAME":"AeroVironment Quantix Recon","GRAPHICNAME":"avi_quantix_recon.png","COSTPRICE":7500.00,"MSRP":11999.00,"QTYONHAND":9,"QTYONBACKORDER":0,"DESCRIPTION":"The AeroVironment Quantix Recon is a hybrid VTOL fixed-wing drone designed for rapid geospatial data collection. In a single 45-minute automated flight it can map up to 400 acres at 2.5cm GSD resolution. Its one-button autonomy software processes imagery onboard and delivers actionable insights within minutes, making it ideal for agriculture, public safety, and critical infrastructure inspection."},
-  {"ID":"AVI-0004","BRAND":"AEROVIRONMENT","PRODUCTNAME":"AeroVironment JUMP 20","GRAPHICNAME":"avi_jump20.png","COSTPRICE":45000.00,"MSRP":72000.00,"QTYONHAND":3,"QTYONBACKORDER":1,"DESCRIPTION":"The AeroVironment JUMP 20 is a medium-altitude VTOL fixed-wing UAS offering up to 16 hours of endurance and a 90km line-of-sight range. Purpose-built for enterprise and government users requiring persistent ISR or communications relay, it supports a diverse payload library including EO, IR, SAR, and SIGINT sensors. Its runway-independent operation makes it deployable from austere forward locations."},
-  {"ID":"AVI-0005","BRAND":"AEROVIRONMENT","PRODUCTNAME":"AeroVironment Switchblade 300","GRAPHICNAME":"avi_switchblade300.png","COSTPRICE":5999.00,"MSRP":9500.00,"QTYONHAND":18,"QTYONBACKORDER":6,"DESCRIPTION":"The AeroVironment Switchblade 300 is a man-portable tube-launched loitering munition and reconnaissance system used by tactical ground forces. Weighing under 2.7kg, it can be deployed in under two minutes and provides real-time video reconnaissance before and during an engagement. Its precision guidance minimises collateral effects and it is operated by over 10 allied defence forces globally."},
-
-  {"ID":"PWV-0001","BRAND":"POWERVISION","PRODUCTNAME":"PowerVision PowerEgg X Wizard","GRAPHICNAME":"pvision_poweregg_x_wizard.png","COSTPRICE":699.00,"MSRP":1099.00,"QTYONHAND":25,"QTYONBACKORDER":0,"DESCRIPTION":"The PowerVision PowerEgg X Wizard is a unique all-in-one drone that transforms between a standard aerial drone, a handheld gimbal camera, and a waterproof autonomous camera in rain or atop water. With a 1/2.8-inch sensor, AI-powered subject tracking, and water-surface takeoff and landing, it is one of the most versatile personal drones available for adventurers and content creators."},
-  {"ID":"PWV-0002","BRAND":"POWERVISION","PRODUCTNAME":"PowerVision PowerRay Explorer","GRAPHICNAME":"pvision_powerray_explorer.png","COSTPRICE":899.00,"MSRP":1399.00,"QTYONHAND":18,"QTYONBACKORDER":3,"DESCRIPTION":"The PowerVision PowerRay Explorer is an underwater drone capable of diving to 30 metres while streaming 4K video to a surface controller or VR goggles. Equipped with built-in sonar fish-finding technology and a bait-drop accessory, it serves both recreational anglers and marine researchers. Its streamlined torpedo body and vectored thrusters deliver agile low-noise movement through aquatic environments."},
-  {"ID":"PWV-0003","BRAND":"POWERVISION","PRODUCTNAME":"PowerVision PowerDolphin Wizard","GRAPHICNAME":"pvision_powerdolphin_wizard.png","COSTPRICE":749.00,"MSRP":1199.00,"QTYONHAND":14,"QTYONBACKORDER":0,"DESCRIPTION":"The PowerVision PowerDolphin Wizard is a surface water drone with a built-in 4K camera, sonar, and live streaming capability. Reaching speeds up to 12km/h, it is designed for water sports photography, fishing reconnaissance, and environmental monitoring of rivers, lakes, and coastal zones. Its detachable camera module allows versatile payload configurations for scientific and commercial applications."},
-  {"ID":"PWV-0004","BRAND":"POWERVISION","PRODUCTNAME":"PowerVision PowerEye","GRAPHICNAME":"pvision_powereye.png","COSTPRICE":2299.00,"MSRP":3599.00,"QTYONHAND":9,"QTYONBACKORDER":1,"DESCRIPTION":"The PowerVision PowerEye is a professional-grade quadrotor featuring a fully detachable camera system and a high-precision 3-axis gimbal supporting third-party cameras including the Sony A7 series. Designed for broadcast, film, and inspection work, it offers redundant flight systems, a 35-minute flight time, and a modular airframe that allows rapid field servicing and payload swaps."},
-  {"ID":"PWV-0005","BRAND":"POWERVISION","PRODUCTNAME":"PowerVision PowerEgg X Eagle","GRAPHICNAME":"pvision_poweregg_x_eagle.png","COSTPRICE":549.00,"MSRP":849.00,"QTYONHAND":33,"QTYONBACKORDER":0,"DESCRIPTION":"The PowerVision PowerEgg X Eagle is the entry-level variant of the PowerEgg X series, providing a 1/2.8-inch 4K camera, 3-axis gimbal stabilisation, and AI-powered follow tracking in a compact egg-shaped foldable chassis. With up to 30 minutes of flight time and voice control support, it is an approachable yet feature-rich drone for travel content creation and everyday aerial photography."}
+  {
+    "ID": "BEE-0001",
+    "BRAND": "NEWBEE DRONES",
+    "PRODUCTNAME": "AcroBee75 HD O4 Pusher",
+    "GRAPHICNAME": "newbee_acro75_O4_pusher.jpg",
+    "COSTPRICE": 159.00,
+    "MSRP": 229.99,
+    "QTYONHAND": 22,
+    "QTYONBACKORDER": 5,
+    "DESCRIPTION": "The NewBeeDrone AcroBee75 HD O4 Pusher is a 75mm micro FPV drone that integrates the high-definition DJI O4 video system into a lightweight tiny whoop format. Its inverted pusher design significantly improves aerodynamic efficiency and lowers the center of gravity, delivering remarkably smooth, jello-free HD footage and precise flight control"
+  },
+  {
+    "ID": "BEE-0002",
+    "BRAND": "NEWBEE DRONES",
+    "PRODUCTNAME": "AcroBee65 Brushed V2 ELRS",
+    "GRAPHICNAME": "newbee_acrobee65_brushed.jpg",
+    "COSTPRICE": 69.99,
+    "MSRP": 115.99,
+    "QTYONHAND": 33,
+    "QTYONBACKORDER": 7,
+    "DESCRIPTION": "The NewBeeDrone AcroBee65 Brushed V2 ELRS BNF is a 65mm micro FPV tiny whoop designed for beginner-friendly indoor and tight-space flying. It features an integrated F411 flight controller, an SPI ExpressLRS receiver, active motor braking, and a SmartMAX VTX that pushes up to 400mW for excellent range"
+  },
+  {
+    "ID": "BEE-0003",
+    "BRAND": "NEWBEE DRONES",
+    "PRODUCTNAME": "VRDrone V2.5 BNF",
+    "GRAPHICNAME": "newbee_VRDrone_V2.5_BNF.jpg",
+    "COSTPRICE": 59.99,
+    "MSRP": 89.99,
+    "QTYONHAND": 19,
+    "QTYONBACKORDER": 1,
+    "DESCRIPTION": "The NewBeeDrone VRDrone V2.5 BNF (Bind-N-Fly) is an ultra-lightweight, 1S brushed micro FPV whoop. Designed as a docile and highly durable learning platform, it is perfect for beginners. The BNF version requires your own BeeMote V2 radio controller, or it can be purchased in a complete Ready-To-Fly (RTF) bundle."
+  },
+  {
+    "ID": "BEE-0004",
+    "BRAND": "NEWBEE DRONES",
+    "PRODUCTNAME": "AcroBee75 BLV5 Ultimate Outdoor Whoop",
+    "GRAPHICNAME": "newbee_acrobee75_BLV5_outdoor.jpg",
+    "COSTPRICE": 159.99,
+    "MSRP": 239.99,
+    "QTYONHAND": 0,
+    "QTYONBACKORDER": 10,
+    "DESCRIPTION": "The NewBeeDrone AcroBee75 BLV5 Ultimate Outdoor Whoop is a 75mm 2S brushless micro FPV drone. Weighing just 36.4 grams, it is built around the 5th generation BeeBrain FC. Designed primarily for outdoor freestyle and racing, it pairs high agility with impressive power and extended flight times"
+  },
+  {
+    "ID": "BEE-0005",
+    "BRAND": "NEWBEE DRONES",
+    "PRODUCTNAME": "X Hummingbird V3.1 Brushless",
+    "GRAPHICNAME": "newbee_hummingbird_V3.1.jpg",
+    "COSTPRICE": 239.99,
+    "MSRP": 310.99,
+    "QTYONHAND": 5,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The NewBeeDrone Hummingbird V3.1 Brushless is a highly agile 65mm 1S FPV tiny whoop. It features a unique X-shaped all-in-one flight controller with integrated ELRS, completely solderless plug-and-play components, and comes in two distinct variants tailored for everyday flying or competitive racing."
+  }
 ]
